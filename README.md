@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shanbhag-sv
 - 👀 I’m interested in Python/Go
-- 🌱 I’m currently upgrading ...
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on K8s
 - 📫 How to reach me siddhivinayak.shanbhag@hpe.com
 
